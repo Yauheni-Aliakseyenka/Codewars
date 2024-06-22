@@ -6,3 +6,6 @@ c = ';'.join(map(str, a))
 
 print(b)
 print(c)
+
+line = "Hello World"
+print(str(line[::-1].swapcase()))
