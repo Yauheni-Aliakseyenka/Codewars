@@ -6,3 +6,4 @@ and returns a string of s repeated exactly n times.
 
 def repeat_str(repeat, string):
     return string * repeat
+
